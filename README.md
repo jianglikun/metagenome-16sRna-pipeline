@@ -7,7 +7,7 @@ Use software: Qiime
 The main script:
     1.join_paired_ends.py:    This script takes forward and reverse Illumina reads and joins them using the method chosen
 
-    2.plit_libraries_fastq.py:   qulity control for the sequence
+    2.split_libraries_fastq.py:   qulity control for the sequence
 
     3.pick_open_reference_otus.py:   This script will produce an OTU mapping file (pick_otus.py), a representative set of sequences (FASTA file from pick_rep_set.py), a sequence alignment file (FASTA file from align_seqs.py), taxonomy assignment file (from assign_taxonomy.py), a filtered sequence alignment (from filter_alignment.py), a phylogenetic tree (Newick file from make_phylogeny.py) and a biom-formatted OTU table (from make_otu_table.py).This script will produce an OTU mapping file (pick_otus.py), a representative set of sequences (FASTA file from pick_rep_set.py), a sequence alignment file (FASTA file from align_seqs.py), taxonomy assignment file (from assign_taxonomy.py), a filtered sequence alignment (from filter_alignment.py), a phylogenetic tree (Newick file from make_phylogeny.py) and a biom-formatted OTU table (from make_otu_table.py).
 
