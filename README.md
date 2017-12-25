@@ -5,6 +5,7 @@ This script was write to analysis 16s sequence data. Finaly get the sample_group
 Use software: Qiime
 
 The main script:
+
     1.join_paired_ends.py:    This script takes forward and reverse Illumina reads and joins them using the method chosen
 
     2.split_libraries_fastq.py:   qulity control for the sequence
