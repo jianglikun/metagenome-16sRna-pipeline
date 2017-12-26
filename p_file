@@ -1,0 +1,3 @@
+pick_otus:db_filepath /home/jianglikun/16s_pipeline/qiime_data/gold.fa.1
+pick_otus:word_length 64
+pick_otus:enable_rev_strand_match       True
