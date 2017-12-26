@@ -16,7 +16,7 @@ otuput:biom file dirctory.  the biom file is outputfile/otus/otu_table_mc2_w_tax
 EOF
 
 if [ $# -eq 0 ];then
-        echo "Usage: 16s_pipeline.sh -p data_path -o output_dirctory"
+        echo "Usage: 16sRNA_pipeline.sh -p data_path -o output_dirctory"
         exit 1
 fi
 
